@@ -1,0 +1,28 @@
+Endereco de A: 7802200
+Conteudo de A: 10
+Referencias para 7802200: 1
+
+Endereco de B: 7802232
+Conteudo de B: 20
+Referencias para 7802232: 1
+
+
+--> Atribuicao A em B <--
+Endereco de A: 7802232
+Conteudo de A: 20
+Referencias para 7802232: 2
+
+Endereco de B: 7802232
+Conteudo de B: 20
+Referencias para 7802232: 2
+-------------------------
+
+Endereco de C: 7802200
+Conteudo de C: Z
+Referencias para 7802200: 1
+
+Atribuicao B para NULL:
+Novo endereco do ponteiro nulo: 6356724
+
+Process returned -1073741819 (0xC0000005)   execution time : 2.309 s
+Press any key to continue.
